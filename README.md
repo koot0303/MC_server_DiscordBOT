@@ -1,1 +1,2 @@
 # MC_server_DiscordBOT
+discordのサーバーに自身のマインクラフトサーバーが稼働中か知らせる簡易的なbot
